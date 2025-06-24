@@ -1,0 +1,2 @@
+This project is an implementation of a basic website to learn HTML formatting and web repository management. Based on the tutorial "Project: Recipes" from The Odin Project.
+link: https://www.theodinproject.com/lessons/foundations-recipes
