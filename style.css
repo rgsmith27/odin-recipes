@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    width: fit-content;
+}
+
+h1 {
+    background-color:lightgray;
+    padding: 8px;
+}
+
+ul {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 8px;
+}
+
+.linklist {
+    background-color: lightgray;
+    width: auto;
+}
+
+li {
+    padding-bottom: 8px;
+}
+
+img {
+    max-height: 500px;
+}
